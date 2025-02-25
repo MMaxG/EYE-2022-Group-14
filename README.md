@@ -1,4 +1,5 @@
 # EYE-2022-Group-14
+[Contributions at the bottom]
 This project explores eye-tracking data analysis using both a traditional dispersion-based algorithm and a deep learning approach (U’n’Eye). We focused on detecting and classifying fixations and saccades, then comparing performance across methods. Our workflow included:
 
 Data Preprocessing: Cleaning and organizing raw eye-tracking coordinates.

@@ -1,4 +1,11 @@
 # EYE-2022-Group-14
+This project explores eye-tracking data analysis using both a traditional dispersion-based algorithm and a deep learning approach (U’n’Eye). We focused on detecting and classifying fixations and saccades, then comparing performance across methods. Our workflow included:
+
+Data Preprocessing: Cleaning and organizing raw eye-tracking coordinates.
+Dispersion-Based Detection: Implementing a classic algorithm to identify fixations based on coordinate clustering.
+Deep Learning (U’n’Eye): Applying a neural network model to predict saccades and fixations.
+Analysis & Metrics: Calculating mean fixation duration (MFD), mean saccade amplitude (MSA), and visualizing gaze patterns.
+The code (developed primarily in Python/Google Colab) and final results offer insights into user gaze behavior, highlighting the strengths and challenges of each detection method. Feel free to explore the notebooks and documentation to learn more about our methods, results, and how they can be applied to broader usability and attention research
 
 ![image](https://github.com/user-attachments/assets/0b789bf2-4849-491d-a80e-203d1edd58f0)
 
